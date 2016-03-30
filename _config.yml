@@ -2,6 +2,7 @@ name: Town Planner CLE
 favicon: null
 layout_spectrum: 0.753153987461701
 typography_spectrum: 0.18533618072979152
+title: Town Planner CLE
 cta:
   domain: null
   bucket: null
