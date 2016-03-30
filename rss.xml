@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Town Planner CLE]]></title>
         <description><![CDATA[Town Planner CLE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/town-planner-cle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 21:34:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 21:36:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/town-planner-cle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1fd333-ada3-47a0-a20d-f8445a66c693.jpg">]]></description>
-            <link>undefinedd63bd005-c3e2-48d5-8724-a289b49f1729/index.html</link>
+            <link>https://thegrid.ai/town-planner-cle/d63bd005-c3e2-48d5-8724-a289b49f1729/index.html</link>
             <guid isPermaLink="false">d63bd005-c3e2-48d5-8724-a289b49f1729</guid>
-            <pubDate>Wed, 30 Mar 2016 21:34:51 GMT</pubDate>
+            <pubDate>Wed, 30 Mar 2016 21:36:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
