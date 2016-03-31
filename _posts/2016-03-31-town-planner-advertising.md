@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.townplanner.com'
-  name: Townplanner
-  favicon: 'http://www.townplanner.com/favicon.ico'
-  domain: www.townplanner.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.townplanner.com/advertise'
+inLanguage: en
+starred: false
 keywords:
   - planner
   - community
@@ -18,17 +17,20 @@ keywords:
   - pauler
   - e-mail
 description: 'Being the center point of family activity makes the Town Planner a perfect place for your business to be seen and referenced. Beautiful local photography, useful community information, important phone numbers and local business savings all make this calendar useful to families in the communities we serve. Learn More.'
-inLanguage: en
+datePublished: '2016-03-31T15:40:44.199Z'
+dateModified: '2016-03-31T15:40:13.601Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.townplanner.com/advertise'
-title: Town Planner - Advertising
-datePublished: '2016-03-31T00:58:21.336Z'
-dateModified: '2016-03-30T21:57:28.832Z'
+title: 'Advertising with Town Planner '
 sourcePath: _posts/2016-03-31-town-planner-advertising.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Townplanner
+  domain: www.townplanner.com
+  url: 'http://www.townplanner.com'
+  favicon: 'http://www.townplanner.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
