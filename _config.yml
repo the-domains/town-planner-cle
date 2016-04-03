@@ -1,29 +1,18 @@
-name: Town Planner CLE
-favicon: null
-layout_spectrum: 0.753153987461701
-typography_spectrum: 0.18533618072979152
-title: Town Planner CLE
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#3f3f3f'
-    - '#c1c1c1'
-    - '#868686'
-  brandStrength: 0.7657354117836803
+    - '#B0C8D0'
+    - '#802020'
+    - '#908060'
+    - '#E8B020'
+    - '#D0E0F0'
+  brandStrength: 0.765735
   lightness: 0.5
-  saturation: 0.625
   rhythmicContrast: 0.25
+  saturation: 0.339527
+cta: {}
+layout_spectrum: 0.399493
+name: Town Planner CLE
+opengraph: {}
 purpose: []
+typography_spectrum: 0.18533618072979152
