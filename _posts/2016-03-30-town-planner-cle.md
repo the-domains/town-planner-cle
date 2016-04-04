@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.townplanner.com'
-  name: Townplanner
-  favicon: 'http://www.townplanner.com/favicon.ico'
-  domain: www.townplanner.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.townplanner.com/cleveland/oh/directory/your-town-planner-publisher/david-coffman/38'
+inLanguage: en
+starred: true
 keywords:
   - planner
   - town
@@ -18,17 +17,20 @@ keywords:
   - effective
   - shelf
 description: 'About Us The Town Planner is a family-friendly resource mailed FREE to homes in our town. Serving Northeast Ohio since 1989, we have a simple approach to advertising -MAKE IT WORK, MAKE IT COST EFFECTIVE, AND KEEP IT SIMPLE! * CONNECT WITH YOUR COMMUNITY. Town Planner reaches homes within your prime area.'
-inLanguage: en
+datePublished: '2016-04-04T13:42:01.233Z'
+dateModified: '2016-04-04T13:42:00.805Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.townplanner.com/cleveland/oh/directory/your-town-planner-publisher/david-coffman/38'
-title: Town Planner CLE
-datePublished: '2016-03-30T22:07:12.818Z'
-dateModified: '2016-03-30T21:58:07.033Z'
+title: ''
 sourcePath: _posts/2016-03-30-town-planner-cle.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Townplanner
+  domain: www.townplanner.com
+  url: 'http://www.townplanner.com'
+  favicon: 'http://www.townplanner.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
