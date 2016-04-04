@@ -1,4 +1,19 @@
-analytics: {}
+name: Town Planner CLE
+favicon: null
+layout_spectrum: 0.31722
+typography_spectrum: 0.18533618072979152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B0C8D0'
@@ -8,11 +23,6 @@ color:
     - '#D0E0F0'
   brandStrength: 0.765735
   lightness: 0.5
-  rhythmicContrast: 0.25
   saturation: 0.339527
-cta: {}
-layout_spectrum: 0.399493
-name: Town Planner CLE
-opengraph: {}
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.18533618072979152
